@@ -33,7 +33,7 @@ remote_theme: douglasurner/canvas
   
   * [Douglas U.](https://github.com/DouglasUrner)
 
-<details>
+</details>
 
 
 <details>
