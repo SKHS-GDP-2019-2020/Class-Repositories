@@ -26,6 +26,7 @@ remote_theme: douglasurner/canvas
   
   * [Thomas K.](https://github.com/Kay9000)
   * [Douglas U.](https://github.com/DouglasUrner)
+  * [manny T.](https://github.com/MannyTovar)
   
 </details>
 
