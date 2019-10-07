@@ -33,5 +33,13 @@ remote_theme: douglasurner/canvas
   
   * [Douglas U.](https://github.com/DouglasUrner)
 
-</details>
+<details>
+
+
+<details>
+  <summary>6th Block</summary>
+  
+  * .[Lukas P.](https://github.com/LukasPaulus)
+  
+  <details>
 
