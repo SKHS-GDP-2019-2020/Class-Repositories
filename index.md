@@ -26,11 +26,6 @@ remote_theme: douglasurner/canvas
   
   * [Douglas U.](https://github.com/DouglasUrner)
   
-  <details>
-  <summary>6th Block</summary>
-  
-  * [Manny T.](https://github.com/MannyTovar)
-
 </details>
 
 <details>
@@ -39,3 +34,8 @@ remote_theme: douglasurner/canvas
   * [Douglas U.](https://github.com/DouglasUrner)
 
 </details>
+
+  <details>
+  <summary>6th Block</summary>
+  
+  * [Manny T.](https://github.com/MannyTovar)
