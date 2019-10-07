@@ -18,7 +18,7 @@ remote_theme: douglasurner/canvas
   * [Madison A.](https://github.com/wowitsmadiao)
   * [Emma H.](https://github.com/fcr-harris)
   * [Douglas U.](https://github.com/DouglasUrner)
-  
+  * .[Lukas P.](https://github.com/LukasPaulus)
 </details>
 
 <details>
@@ -28,12 +28,7 @@ remote_theme: douglasurner/canvas
   * [Douglas U.](https://github.com/DouglasUrner)
   
   <details>
-  <summary>6th Block</summary>
-  
-  * .[Lukas P.](https://github.com/LukasPaulus)
-  
-  </details>
-</details>
+ 
 
 <details>
   <summary>7th Block</summary>
