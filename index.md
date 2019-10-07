@@ -41,5 +41,5 @@ remote_theme: douglasurner/canvas
   
   * .[Lukas P.](https://github.com/LukasPaulus)
   
-  <details>
+  </details>
 
