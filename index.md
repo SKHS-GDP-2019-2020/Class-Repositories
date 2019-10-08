@@ -6,11 +6,10 @@ remote_theme: douglasurner/canvas
 
 <details>
   <summary>1st Block</summary>
-  
-  * [Dionte H.](https://github.com/K-dion)
-  * [Courtney S.](https://github.com/stasio9884)
+ 
+  * [Dionte H.](https://github.com/K-dion) 
   * [Douglas U.](https://github.com/DouglasUrner)
-  
+  * [Joshua C.](https://github.com/j0shua-c)
 </details>
 
 <details>
