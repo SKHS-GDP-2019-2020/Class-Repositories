@@ -21,6 +21,7 @@ remote_theme: douglasurner/canvas
   
   * [Madison A.](https://github.com/wowitsmadiao)
   * [Emma H.](https://github.com/fcr-harris)
+  * [Alexander M.](https://github.com/Meeson122304)
   * [Sadie S.](https://github.com/SShadduck13)
   * [Douglas U.](https://github.com/DouglasUrner)
   
