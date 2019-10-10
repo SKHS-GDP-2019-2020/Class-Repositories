@@ -22,6 +22,7 @@
   
   * [Madison A.](https://github.com/wowitsmadiao)
   * [Isaac B.](https://github.com/IkeyoBrownyo)
+  * [Devin E.](https://github.com/ZeXaLGit)
   * [Emma H.](https://github.com/fcr-harris)
   * [Brett K.](https://github.com/MP-PocketNinja)
   * [Sadie S.](https://github.com/SShadduck13)
