@@ -6,7 +6,7 @@
 
 <details>
   <summary>1st Block</summary>
-  
+  * [Ryan R.](https://github.com/Agent-ross)
   * [Leah B.](https://github.com/LarielBird)
   * [Joshua C.](https://github.com/j0shua-c)
   * [Dionte H.](https://github.com/K-dion)
