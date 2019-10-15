@@ -51,6 +51,7 @@
   * [Ian H.](https://github.com/MKDreadSword)
   * [Jeremiah L.](https://github.com/lens5753)
   * [Maximus M.](https://github.com/Merc4952)
+  * [Alexander M.](https://github.com/AlexanderPMorrison)
   * [Douglas U.](https://github.com/DouglasUrner)
   * [Kayden W.](https://github.com/ShadowCharmer21)
   * [Theron P.](https://github.com/Stampers)
