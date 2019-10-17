@@ -46,6 +46,7 @@
 <details>
   <summary>7th Block</summary>
   
+  * [Miguel A.](https://github.com/Miguel-Ed)
   * [Riley F.](https://github.com/RileyForsland)
   * [Benimyn H.](https://github.com/benjimyn)
   * [Ian H.](https://github.com/MKDreadSword)
