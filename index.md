@@ -8,6 +8,7 @@
   <summary>1st Block</summary>
   
   * [Leah B.](https://github.com/LarielBird)
+  * [Jacob B](https://github.com/FastAndTheCurious)
   * [Joshua C.](https://github.com/j0shua-c)
   * [Dionte H.](https://github.com/K-dion)
   * [Russell P.](https://github.com/RussellPavledakes)
