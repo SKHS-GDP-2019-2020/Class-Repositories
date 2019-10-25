@@ -9,6 +9,7 @@
   
   * [Leah B.](https://github.com/LarielBird)
   * [Jacob B](https://github.com/FastAndTheCurious)
+  * [Michiko D.](https://github.com/MichikoDamian)
   * [Joshua C.](https://github.com/j0shua-c)
   * [Dionte H.](https://github.com/K-dion)
   * [Russell P.](https://github.com/RussellPavledakes)
@@ -16,6 +17,7 @@
   * [Courtney S.](https://github.com/stasio9884)
   * [Douglas U.](https://github.com/DouglasUrner)
   * [Sawyer W.](https://github.com/Ninjamonkey3904)
+
   
 </details>
 
