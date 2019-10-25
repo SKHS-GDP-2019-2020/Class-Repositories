@@ -10,7 +10,7 @@
   * [Leah B.](https://github.com/LarielBird)
   * [Jacob B](https://github.com/FastAndTheCurious)
   * [Joshua C.](https://github.com/j0shua-c)
-  * [Michiko D.]https://github.com/MichikoDamian
+  * [Michiko D.](https://github.com/MichikoDamian)
   * [Dionte H.](https://github.com/K-dion)
   * [Russell P.](https://github.com/RussellPavledakes)
   * [Riley R.](https://github.com/xLuna844x)
