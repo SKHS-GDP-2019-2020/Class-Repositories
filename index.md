@@ -10,12 +10,14 @@
   * [Leah B.](https://github.com/LarielBird)
   * [Jacob B](https://github.com/FastAndTheCurious)
   * [Joshua C.](https://github.com/j0shua-c)
+  * [Michiko D.](https://github.com/MichikoDamian)
   * [Dionte H.](https://github.com/K-dion)
   * [Russell P.](https://github.com/RussellPavledakes)
   * [Riley R.](https://github.com/xLuna844x)
   * [Courtney S.](https://github.com/stasio9884)
   * [Douglas U.](https://github.com/DouglasUrner)
   * [Sawyer W.](https://github.com/Ninjamonkey3904)
+
   
 </details>
 
