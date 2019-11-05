@@ -7,15 +7,31 @@
 <details>
   <summary>1st Block</summary>
   
+  * [Peyton A]()
   * [Leah B.](https://github.com/LarielBird)
   * [Jacob B](https://github.com/FastAndTheCurious)
+  * [Dylan C.]()
   * [Joshua C.](https://github.com/j0shua-c)
+  * [Owen C.]()
+  * [Joshua C.]()
   * [Michiko D.](https://github.com/MichikoDamian)
+  * [Aiden D.]()
+  * [Brian G.]()
+  * [Alexander H.]()
+  * [Anthony H.]()
   * [Dionte H.](https://github.com/K-dion)
+  * [Kayla J.]()
+  * [Gilbert L.]()
   * [Russell P.](https://github.com/RussellPavledakes)
+  * [Jordan P.]()
+  * [Logan R.]()
+  * [Ryan R.]()
   * [Riley R.](https://github.com/xLuna844x)
+  * [David S.]()
+  * [Cadan S.]()
+  * [Don S.]()
   * [Courtney S.](https://github.com/stasio9884)
-  * [Douglas U.](https://github.com/DouglasUrner)
+  * [CJ V.]()
   * [Sawyer W.](https://github.com/Ninjamonkey3904)
 
   
