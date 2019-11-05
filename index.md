@@ -51,21 +51,21 @@
   <summary>7th Block</summary>
   
   * [Miguel A.](https://github.com/Miguel-Ed)
-  * [Cam'ron C.]()
-  * [Sam C-M.]()
+  * [Cam'ron C.](https://github.com/JustAnAverageCam)
+  * [Sam C-M.](https://github.com/smill6044)
   * [Riley F.](https://github.com/RileyForsland)
-  * [Bain H.]()
+  * [Bain H.](https://github.com/Good2Know73)
   * [Benimyn H.](https://github.com/benjimyn)
   * [Ian H.](https://github.com/MKDreadSword)
   * [Reilly K.]()
   * [Jeremiah L.](https://github.com/lens5753)
   * [Maximus M.](https://github.com/Merc4952)
   * [Alexander M.](https://github.com/AlexanderPMorrison)
-  * [Shane P.]()
+  * [Shane P.](https://github.com/Zendofot)
   * [Theron P.](https://github.com/Stampers)
-  * [Cody S.]()
+  * [Cody S.](https://github.com/CodyF16)
   * [Kayden W.](https://github.com/ShadowCharmer21)
-  * [Tyler W.]()
+  * [Tyler W.](https://github.com/Tylerchow303)
   
 </details>
 
