@@ -55,6 +55,7 @@
 <details>
   <summary>6th Block</summary>
   
+  * [Isaac C.](https://github.com/IsaacCottrell)
   * [Phillip H.](https://github.com/Phillip43210)
   * [Zackary H.](https://github.com/ZackaryHowell)
   * [Thomas K.](https://github.com/Kay9000)
