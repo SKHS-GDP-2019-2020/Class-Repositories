@@ -33,8 +33,7 @@
   * [Courtney S.](https://github.com/stasio9884)
   * [CJ V.]()
   * [Sawyer W.](https://github.com/Ninjamonkey3904)
-
-  
+ 
 </details>
 
 <details>
@@ -50,10 +49,12 @@
   * [Hema T.](https://github.com/Kurdistan2004)
   * [Douglas U.](https://github.com/DouglasUrner)
   * [Quinn S.](https://github.com/QuinnSuligoy)
+  
 </details>
 
 <details>
   <summary>6th Block</summary>
+  
   * [Phillip H.](https://github.com/Phillip43210)
   * [Zackary H.](https://github.com/ZackaryHowell)
   * [Thomas K.](https://github.com/Kay9000)
