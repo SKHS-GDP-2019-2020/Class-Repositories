@@ -10,7 +10,7 @@
   * [Peyton A]()
   * [Leah B.](https://github.com/LarielBird)
   * [Jacob B](https://github.com/FastAndTheCurious)
-  * [Dylan C.]()
+  * [Dylan C.](https://github.com/DYLANCASTR0)
   * [Joshua C.](https://github.com/j0shua-c)
   * [Owen C.]()
   * [Joshua C.]()
