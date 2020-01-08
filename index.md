@@ -87,3 +87,7 @@
   
 </details>
 
+  <details>
+  <summary>6th Block</summary>
+  
+  * [Manny T.](https://github.com/MannyTovar)
