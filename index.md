@@ -44,6 +44,7 @@
   * [Devin E.](https://github.com/ZeXaLGit)
   * [Emma H.](https://github.com/fcr-harris)
   * [Brett K.](https://github.com/MP-PocketNinja)
+  * [Orin L.](https://github.com/illphoenix360)
   * [Sadie S.](https://github.com/SShadduck13)
   * [Jesse T.](https://github.com/CountMyGwap)
   * [Hema T.](https://github.com/Kurdistan2004)
